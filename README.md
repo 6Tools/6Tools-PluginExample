@@ -12,5 +12,6 @@ Ce plugin de base de développement intègre les fonctions de base pour :
 - Ajout d'un shortcode
 - Ajout d'un widget
 - Ajout d'un menu de configuration du plugin dans le menu admin
+- Ajout de fonctions liées au plugin utilisables dans les thèmes
 
 - @todo Créer fichiers de lang FR_fr
