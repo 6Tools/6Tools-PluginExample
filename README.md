@@ -10,4 +10,4 @@ Ce plugin de base de développement intègre les fonctions de base pour :
 - Fonctions d'activation, désactivation et desinstallation du plugin
 - Ajout d'un widget
 - Ajout d'un menu de configuration du widget dans le menu admin
-@todo Créer fichiers de lang FR_fr
+- @todo Créer fichiers de lang FR_fr
