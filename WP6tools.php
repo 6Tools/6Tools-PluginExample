@@ -17,6 +17,7 @@
  * - Fonctions d'activation, désactivation et desinstallation du plugin
  * - Ajout d'un widget
  * - Ajout d'un menu de configuration du widget dans le menu admin
+ * - Nouveauté
  * @todo Créer fichiers de lang FR_fr
  * 
  */
