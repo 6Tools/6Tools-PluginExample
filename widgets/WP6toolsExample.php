@@ -55,7 +55,7 @@ class WP6toolsExample extends WP_Widget {
 
                 
                 <div class="widget-de-base">
-                    <p>Widget : <?php echo $title; ?></p>
+                    <p>Widgets : <?php echo $title; ?></p>
                 </div>
 
 
